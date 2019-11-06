@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapphireEngineCore", "src\SapphireEngineCore.csproj", "{4F579278-347B-49A0-93EA-051CE533E593}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapphireEngineTests", "tests\SapphireEngineTests.csproj", "{40A8BB6E-2A4D-4996-B8A8-A3472D43DCA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4F579278-347B-49A0-93EA-051CE533E593}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F579278-347B-49A0-93EA-051CE533E593}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F579278-347B-49A0-93EA-051CE533E593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A8BB6E-2A4D-4996-B8A8-A3472D43DCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A8BB6E-2A4D-4996-B8A8-A3472D43DCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A8BB6E-2A4D-4996-B8A8-A3472D43DCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A8BB6E-2A4D-4996-B8A8-A3472D43DCA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
