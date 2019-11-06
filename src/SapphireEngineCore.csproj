@@ -1,7 +1,10 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Port of TheRyuzaki/SapphireEngine</Title>
+        <Authors>TheRyuzaki, bazuka5801</Authors>
     </PropertyGroup>
 
 </Project>
