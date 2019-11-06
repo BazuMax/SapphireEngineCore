@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapphireEngineCore", "src\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapphireEngineTests", "tests\SapphireEngineTests.csproj", "{40A8BB6E-2A4D-4996-B8A8-A3472D43DCA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{6FC45455-E55C-457A-896A-19D54D7AE11A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{40A8BB6E-2A4D-4996-B8A8-A3472D43DCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40A8BB6E-2A4D-4996-B8A8-A3472D43DCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40A8BB6E-2A4D-4996-B8A8-A3472D43DCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC45455-E55C-457A-896A-19D54D7AE11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC45455-E55C-457A-896A-19D54D7AE11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC45455-E55C-457A-896A-19D54D7AE11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC45455-E55C-457A-896A-19D54D7AE11A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
